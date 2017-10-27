@@ -1,14 +1,14 @@
 # Heroes
-An project to Learn some Angular2
+A project to Learn some Angular2 following the [official tutorial](https://angular.io/tutorial)
 
 # Getting Started
 
-Super simple Angular app with 1 module and 2 routes. This is a mnor variation on the Tour of Heroes I wrote for the official docs.
+Super simple Angular app with 1 module and 2 routes. This is a minor variation on the Tour of Heroes I wrote for the official docs.
 
 ## Get the Code
 ```
-git clone https://github.com/johnpapa/angular-tour-of-heroes.git toh
-cd toh
+git clone https://github.com/adsodemelk/Heroes.git
+cd Heroes
 npm i
 ```
 
